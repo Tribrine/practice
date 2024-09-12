@@ -1,11 +1,11 @@
-package com.tribrine.practice;
+package com.tribrine.practice.begin;
 
 //import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = "com.tribrine.practice")
+@ComponentScan(basePackages = "com.tribrine.practice.begin")
 public class AppConfig {
 
 //    @Bean

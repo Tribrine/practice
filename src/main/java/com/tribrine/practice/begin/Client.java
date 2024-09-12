@@ -1,4 +1,4 @@
-package com.tribrine.practice;
+package com.tribrine.practice.begin;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
