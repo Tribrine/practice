@@ -1,4 +1,4 @@
-package com.tribrine.practice;
+package com.tribrine.practice.begin;
 
 import com.tribrine.practice.controller.DemoController;
 import com.tribrine.practice.repository.DemoRepository;

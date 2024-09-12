@@ -1,4 +1,4 @@
-package com.tribrine.practice;
+package com.tribrine.practice.begin;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

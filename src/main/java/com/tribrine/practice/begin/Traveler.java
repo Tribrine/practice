@@ -1,4 +1,4 @@
-package com.tribrine.practice;
+package com.tribrine.practice.begin;
 
 //import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
